@@ -1,0 +1,5 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+   It automatically create a .git file in the current directory. I just need to type git init in CLI.
+
+2.How is the staging area different from the working directory and the repositoty? What value do you think it offers?
+  It's just a temporary state. 
