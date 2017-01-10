@@ -6,3 +6,9 @@
 
 3.How can you use the staging area to make sure you have one commit per logical change?
   I can just add the files that related to one logical change to the staging area one time.
+
+4.What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+  I think sometimes when you need to do some other attempt out of the current branch, this is the best time for new brance coming in.
+
+5.How do the diagrams help you visualize the branch structure?
+  N/A.
