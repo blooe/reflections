@@ -15,3 +15,6 @@
 
 6.What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
   Just merge together.
+
+7.What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+  Automatic merging is more convenient but may result in some errors. Manually merging is more tideous but is a more safe way.
